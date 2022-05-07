@@ -1,1 +1,2 @@
 # AzureDevOps
+sample Azure pipeline.
